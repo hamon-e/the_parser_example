@@ -1,0 +1,6 @@
+[submodule "tools"]
+	path = tools
+	url = git@github.com:hamon-e/tools
+[submodule "the_parser"]
+	path = the_parser
+	url = git@github.com:hamon-e/the_parser
